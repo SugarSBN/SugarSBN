@@ -6,4 +6,4 @@
 - www.subonan.com
 - [![Kaiyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SugarSBN&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 - I'm interested in:
-- Programming languages theory / type theory / category theory / interpreters / funtional programming / quantum computing   
+- Programming languages theory / type theory / category theory / interpreters / funtional programming / quantum computation / static analysis, verification, optimization
