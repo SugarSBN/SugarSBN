@@ -8,4 +8,8 @@
 - www.subonan.com
 
 - I'm interested in Programming languages theory / type theory / category theory / logic / interpreters / funtional programming / quantum computation / static analysis, verification, optimization
-- [![Kaiyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SugarSBN&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+## Language
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SugarSBN&layout=compact)
+
+## Stats
+![](https://github-readme-stats.vercel.app/api?username=SugarSBN)
