@@ -2,9 +2,9 @@
 
 
 - 📫 How to reach me:
-- QQ:913150678  
-- TEL:+8615952265117  
-- E-mail:bokkeNasu@163.com
+- QQ: 913150678  
+- TEL: +8615952265117  
+- E-mail: bokkeNasu@outlook.com
 - www.subonan.com
 
 - I'm interested in Programming languages theory / type theory / category theory / logic / interpreters / funtional programming / quantum computation / static analysis, verification, optimization
