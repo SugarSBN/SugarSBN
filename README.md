@@ -2,7 +2,6 @@
 
 
 - 📫 How to reach me:
-- QQ: 913150678  
 - TEL: +8615952265117  
 - E-mail: bokkeNasu@outlook.com
 - www.subonan.com
